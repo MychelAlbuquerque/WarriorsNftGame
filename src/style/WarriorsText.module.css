@@ -1,0 +1,28 @@
+.textName{
+  position: absolute;
+  top:-15px;
+  right:10px;
+}
+h1{
+  
+  
+  background-image: linear-gradient(#ffffff,#c2c2c2,#8F8F91,#ADADAF,#ececec,#ffffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: 'Redressed', cursive;
+  font-size: 7em;
+  
+
+}
+h2{
+  position: absolute;
+  top:100px;
+  font-size: 2.5em;
+  font-family: 'Fredoka One', cursive;
+  background-image: linear-gradient(#FFFFFF,#e7d29c,#e9d196,#ffffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  
+}

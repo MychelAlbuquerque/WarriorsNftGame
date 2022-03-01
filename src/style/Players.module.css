@@ -1,0 +1,48 @@
+.container{
+  width: 1200px;
+  margin: 25px auto auto auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow{
+  font-size: 3em;
+  color: aliceblue;
+  cursor: pointer;
+
+  
+}
+.arrow:last-child{
+  transform: rotate(180deg);
+}
+
+.carousel{
+  display: flex;
+  width: 1000px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+.carousel::-webkit-scrollbar{
+  display: none;
+}
+.item{
+  display: flex;
+  flex-direction: column;
+  margin:0 10px;
+  cursor: pointer;
+  
+} 
+.image{
+  width: 180px;
+  height: 250px;
+  border-radius: 24px;
+}
+
+.name{
+  display: flex;
+  margin: auto;
+  color: azure;
+  font-size: 1.4em;
+  font-weight: bolder;
+  font-family: 'Roboto Condensed', sans-serif;
+}

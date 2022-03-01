@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "The Lord",
+    "image": "./players/playerOne.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Insanity",
+    "image": "./players/playerTwo.jpg"
+  },
+  {
+    "id": "3",
+    "name": "The Blacksmith",
+    "image": "./players/playerThree.jpg"
+  },
+  {
+    "id": "4",
+    "name": "The Drunk",
+    "image": "./players/playerFour.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Crazy Fire",
+    "image": "./players/playerFive.png"
+  } ,
+  {
+    "id": "6",
+    "name": "The Dwarf",
+    "image": "./players/playerSix.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Wood",
+    "image": "./players/playerSeven.png"
+  },
+  {
+    "id": "8",
+    "name": "The Beast",
+    "image": "./players/playerEight.png"
+  },
+  {
+    "id": "10",
+    "name": "Archer",
+    "image": "./players/playerTen.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Old Warrior",
+    "image": "./players/playerEleven.jpg"
+  },
+  {
+    "id": "12",
+    "name": "The Elf",
+    "image": "./players/playerTwelve.jpg"
+  }  
+  
+]
